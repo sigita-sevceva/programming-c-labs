@@ -1,0 +1,7 @@
+5
+Panasonic 9999
+Philips 6999
+Samsung 3999
+Sharp 5799
+Thomson 3299
+44

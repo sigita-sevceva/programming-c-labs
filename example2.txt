@@ -1,0 +1,9 @@
+7
+Panasonic 999
+Philips 699
+Samsung 399
+Sharp 579
+Thomson 329
+LG 429
+Sony 549
+40
